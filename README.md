@@ -2,7 +2,7 @@
 
 Contacts Book App is an application based project, designed for people to store the contact details. Rather than going through the pages of their diaries to search the person information, he/she can simply use this software to view any of his/her stored contacts. A user can also add or update or delete the contact information according to his need. 
 
-# Libraries and Tools:
+#Libraries and Tools:
 Python 2.7
 WxPython
 SQLAlchemy
