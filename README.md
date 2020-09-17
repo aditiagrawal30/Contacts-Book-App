@@ -4,9 +4,13 @@ Contacts Book App is an application based project, designed for people to store 
 
 Libraries and Tools:
 Python 2.7
+
 WxPython
+
 SQLAlchemy
+
 ObjectListView
+
 SQLite
 
 The implementation of the system is based on MVC (Model-View-Controller) architecture using Python language, where WxPython is for GUI, SQLAlchemy for ORM and SQL Toolkit, and SQLite as database.
